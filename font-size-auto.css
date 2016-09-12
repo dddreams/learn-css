@@ -1,0 +1,1 @@
+:root{font-size:10px}article{font-size:1.4rem}@media (min-width:600px) and (max-width:1200px){article{font-size:calc(.65rem)}}@media (min-width:1200px){article{font-size:1.8rem}}
